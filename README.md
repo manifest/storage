@@ -1,7 +1,5 @@
 # Storage
 
-[![Build Status][travis-img]][travis]
-
 Highly available, scalable and simple to use object storage
 with token based (OAuth2 Bearer Token) authentication
 and customizable authorization protocol.
